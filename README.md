@@ -1,4 +1,6 @@
-# _Welcome to my profile!! My name is Vitória, I'm a Systems Analysis and Development student, currently exploring new programming languages and studying Data Science._ 😊💻
+# _Welcome to my profile!! My name is Vitória._ 😊
+- 🖥️ Systems Analysis and Development student.
+- 🐍 Exploring the world of Python, Data Science, and everything data-related!
 
 <div>
   <a href="https://github.com/vitoriaslv0">
