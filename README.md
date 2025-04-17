@@ -15,7 +15,6 @@
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
