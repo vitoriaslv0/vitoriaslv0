@@ -13,15 +13,15 @@
 ##
   
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/MySql-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-9676B7?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/MySql-2A6697?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-61A66C?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 <p align="left">
-    <img height="80" width="200" src="https://skillicons.dev/icons?i=git,c,python,java&theme=dark" />
+    <img height="80" width="135" src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
   <h2 align="left">🟣.𝙸𝙳𝙴'𝚜</h2>
-    <img height="80" width="150" src="https://skillicons.dev/icons?i=pycharm,idea,vscode,visualstudio" />
+    <img height="80" width="190" src="https://skillicons.dev/icons?i=pycharm,idea,vscode,visualstudio" />
 </p> 
           
 ##
