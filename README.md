@@ -10,18 +10,18 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaslv0&layout=compact&langs_count=16&theme=rose"/>
 </div> 
 
-##
   
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/GIT-9676B7?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/MySql-2A6697?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-61A66C?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/java-DE6C35.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/python-F3DA5F?style=for-the-badge&logo=python&logoColor=11619E" >
+  <img src="https://img.shields.io/badge/C-0C436E?style=for-the-badge&logo=c&logoColor=white" >
 </div>
 
+
+
 <p align="left">
-    <img height="80" width="135" src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
-  <h2 align="left">🟣.𝙸𝙳𝙴'𝚜</h2>
+  <h2 align="left">🟣.𝙸𝙳𝙴'𝚜 </h2>
     <img height="80" width="190" src="https://skillicons.dev/icons?i=pycharm,idea,vscode,visualstudio" />
 </p> 
           
-##
