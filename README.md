@@ -21,7 +21,7 @@
 <p align="left">
     <img height="80" width="200" src="https://skillicons.dev/icons?i=git,c,python,java&theme=dark" />
   <h2 align="left">🟣.𝙸𝙳𝙴'𝚜</h2>
-    <img height="80" width="150" src="https://skillicons.dev/icons?i=pycharm,vscode,visualstudio" />
+    <img height="80" width="150" src="https://skillicons.dev/icons?i=pycharm,idea,vscode,visualstudio" />
 </p> 
           
 ##
