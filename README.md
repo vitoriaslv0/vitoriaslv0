@@ -1,8 +1,10 @@
-# _Welcome to my profile!! My name is Vitória._ 😊
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4900&pause=900&color=9F4ACF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!!%F0%9F%98%B8;Bem-Vindo+ao+meu+perfil!!%F0%9F%98%B8" /></a></h1>
+
+   
 - 🖥️ Systems Analysis and Development student.
 - 🐍 Exploring the world of Python, Data Science, and everything data-related!
 
----
 
 <div>
   <a href="https://github.com/vitoriaslv0">
